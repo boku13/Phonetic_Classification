@@ -1,0 +1,14 @@
+# Ignore audio and large data files
+vowel_samples/
+historical_audio/
+question_1/audio_samples/
+question_1/*.png
+question_2/*.png
+question_3/*.png
+question_3/*.csv
+question_3/*.wav
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+# Ignore system files
+*.DS_Store
+Thumbs.db
